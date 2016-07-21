@@ -1,5 +1,5 @@
 {
-  "name": "qiniu-upload",
+  "name": "gulp-qiniu-upload",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://MarvinWilliam@github.com/MarvinWilliam/qiniu-upload.git"
+    "url": "git+https://MarvinWilliam@github.com/MarvinWilliam/gulp-qiniu-upload.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarvinWilliam/qiniu-upload/issues"
+    "url": "https://github.com/MarvinWilliam/gulp-qiniu-upload/issues"
   },
-  "homepage": "https://github.com/MarvinWilliam/qiniu-upload#readme",
+  "homepage": "https://github.com/MarvinWilliam/gulp-qiniu-upload#readme",
   "dependencies": {
     "qiniu": "^6.1.11",
     "through2": "^2.0.1"
